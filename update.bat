@@ -1,0 +1,3 @@
+@echo off
+title Node Batch | Updating...
+npm install
